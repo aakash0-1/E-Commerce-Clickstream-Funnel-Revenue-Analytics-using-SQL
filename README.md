@@ -1,7 +1,7 @@
 # E-Commerce Clickstream Funnel Revenue Analytics using-SQL
 SQL-based e-commerce analytics project analyzing clickstream behavior, funnel conversion, drop-offs, and revenue attribution by traffic source using session-level data.
 
-### Project Overview
+## Project Overview
 This project performs end-to-end e-commerce analytics using SQL Server, combining clickstream event data, session-level funnel analysis, and transactional revenue data.
 The goal is to understand:
 * How users navigate through the e-commerce funnel
@@ -9,7 +9,7 @@ The goal is to understand:
 * Which sessions convert into actual transactions
 * How traffic sources perform in terms of conversion and revenue
 
-### Data Model & Tables
+## Data Model & Tables
 
 The analysis is built on four core tables:
 * ClickStream
@@ -17,7 +17,7 @@ The analysis is built on four core tables:
 * Customers
 * Transactions
 
-### Analysis Workflow
+## Analysis Workflow
 * Database & Schema Setup
 * Data Ingestion
 * Data Quality Checks
@@ -29,7 +29,7 @@ The analysis is built on four core tables:
 * Sessions that converted to an actual Transaction (Conversion Quality)
 * Revenue Analysis by Traffic Source
 
-### Key Analysis Performed
+## Key Analysis Performed
 
 ### Overall Funnel Performance
 * Total sessions
