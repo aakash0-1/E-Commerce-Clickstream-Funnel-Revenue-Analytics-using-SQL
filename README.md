@@ -1,5 +1,5 @@
 # E-Commerce Clickstream Funnel Analytics using SQL
-SQL-based e-commerce analytics project analyzing clickstream behavior, funnel conversion, drop-offs, and revenue attribution by traffic source using session-level data.
+SQL-based e-commerce analytics project analysing clickstream behaviour, funnel conversion, drop-offs, and revenue attribution by traffic source using session-level data.
 
 ## Project Overview
 This project performs end-to-end e-commerce analytics using SQL Server, combining clickstream event data, session-level funnel analysis, and transactional revenue data.
